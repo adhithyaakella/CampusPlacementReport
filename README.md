@@ -11,7 +11,7 @@ This Power BI project analyzes student placement data to identify **key success 
 ## 📂 Files/
 - **CampusPlacementReport.pbix** – Full Power BI report.
 - **Reports/** – Screenshots of Power BI insights.
-- **Documentation/** – Summary of findings & insights.
+- **CampusPlacement_summary.docx** – Summary of findings & insights.
 
 ## 📊 Key Insights
 ✔ Higher GPA correlates with better placement rates.  
